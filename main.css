@@ -1,0 +1,29 @@
+.masthead {
+  height: 100vh;
+}
+
+.masthead h1.ui.header {
+  margin-top: 4em;
+  margin-bottom: 0em;
+  font-size: 4em;
+  font-weight: normal;
+}
+
+.masthead h2 {
+  font-size: 1.7em;
+  font-weight: normal;
+}
+
+.masthead .ui.grid {
+  margin-top: 7.5em;
+}
+
+canvas {
+  background-color: #1b1c1d;
+  height: 100vh;
+  width: 100%;
+}
+
+.cartoon {
+  height: 450px;
+}
